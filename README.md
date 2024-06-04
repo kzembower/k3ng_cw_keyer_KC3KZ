@@ -5,3 +5,5 @@ The K3NG Keyer is an open source Arduino based CW (Morse Code) keyer with a lot 
 
 Documentation is located here:
 https://github.com/k3ng/k3ng_cw_keyer/wiki
+
+This fork of the k3ng_cw_keyer github repository is for customizations for Kevin Zembower, KC3KZ, and is NOT meant to be pulled into the main k3ng_cw_keyer repository.
